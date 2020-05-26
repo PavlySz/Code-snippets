@@ -4,3 +4,6 @@ Various useful code snippets for:
   - Flutter
   - Machine and Deep Learning
   - Web applications
+
+### TODO
+  - Add Flutter snippets
