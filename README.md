@@ -1,4 +1,4 @@
-# Code-snippets
+# Code snippets
 Various useful code snippets for:
   - Python
   - Flutter
